@@ -61,3 +61,7 @@ markdown_extensions:
 #       link: https://www.linkedin.com/in/popal-daudzai/
 
 copyright: Copyright &copy; 2024 Popal & Gurk
+
+
+extra_css:
+  - stylesheets/style.css
