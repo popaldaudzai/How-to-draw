@@ -8,6 +8,8 @@ theme:
   # favicon: assets/favicon.ico
   features:
     - navigation.footer
+    - toc.integrate
+
   logo: assets/logo.png
   icon:
     logo: fontawesome/solid/w
@@ -15,6 +17,7 @@ theme:
   palette:
     # Dark Mode
     - scheme: slate
+      
       toggle:
         icon: material/weather-sunny
         name: Dark mode
