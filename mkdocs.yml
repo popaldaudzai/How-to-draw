@@ -1,33 +1,34 @@
 site_name: My MkDocs Material Documentation
 site_url: https://sitename.example
+
 theme:
   name: material
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  # favicon: assets/favicon.ico
   features:
     - navigation.footer
-  # logo: assets/logo.png
+  logo: assets/logo.png
   icon:
     logo: fontawesome/solid/w
 
   palette:
-    # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: custom
+      accent: black
 
-    # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: custom
       accent: deep orange
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
@@ -49,12 +50,5 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
-
-# extra:
-#   social:
-#     - icon: simple/youtube
-#       link: https://youtube.com/@MrBeast
-#     - icon: simple/linkedin
-#       link: https://www.linkedin.com/in/popal-daudzai/
 
 copyright: Copyright &copy; 2024 Popal & Gurk
