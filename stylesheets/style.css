@@ -1,0 +1,21 @@
+.md-typeset p {
+  color: white;
+}
+
+.gif-crop {
+  width: 100%;
+  max-width: 600px;
+  height: 320px;
+  overflow: hidden;
+  margin: 1rem 0 1.5rem 2rem;
+  border-radius: 8px;
+  position: relative;
+}
+
+.step-gif {
+  display: block;
+  width: 90%;
+  height: auto;
+  transform: scale(1.2);
+  transform-origin: top left;
+}
