@@ -2,10 +2,10 @@
   color: white;
 }
 
-.gif-crop1 {
+.gif-crop {
   width: 100%;
-  max-width: 900px;   /* keep the visible area big */
-  height: 320px;      /* crop height */
+  max-width: 600px;
+  height: 320px;
   overflow: hidden;
   margin: 1rem 0 1.5rem 2rem;
   border-radius: 8px;
@@ -14,8 +14,8 @@
 
 .step-gif {
   display: block;
-  width: 100%;
+  width: 90%;
   height: auto;
-  transform: scale(1.2);         /* zoom in so it gets cropped */
-  transform-origin: top left;    /* crop starting from top-left */
+  transform: scale(1.2);
+  transform-origin: top left;
 }

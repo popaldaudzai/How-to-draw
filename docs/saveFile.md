@@ -18,7 +18,7 @@ Review the diagram for any spelling mistakes, missing labels, incorrect connecti
 
 Click the **File** menu in the top-left corner of the screen.
 
-<div class="gif-crop1">
+<div class="gif-crop">
   <img src="../assets/step1.gif" alt="Click File" class="step-gif">
 </div>
 
@@ -26,7 +26,7 @@ Click the **File** menu in the top-left corner of the screen.
 
 From the **File** menu, select **Export As**.
 
-<div class="gif-crop2">
+<div class="gif-crop">
   <img src="../assets/step2.gif" alt="Click Export As" class="step-gif">
 </div>
 
@@ -37,7 +37,7 @@ Select the file type you want to export.
 !!! recommendation "**Recommendation:**"
     Export your diagram as a **PDF** unless your instructor asks for a different file type.
 
-<div class="gif-crop3">
+<div class="gif-crop">
   <img src="../assets/step3.gif" alt="Choose File Type" class="step-gif">
 </div>
 
@@ -45,7 +45,7 @@ Select the file type you want to export.
 
 Adjust the export settings if needed, including the **Fit to** option.
 
-<div class="gif-crop4">
+<div class="gif-crop">
   <img src="../assets/step4.gif" alt="Choose Fit To" class="step-gif">
 </div>
 
@@ -53,7 +53,7 @@ Adjust the export settings if needed, including the **Fit to** option.
 
 Enter a clear and appropriate file name.
 
-<div class="gif-crop5">
+<div class="gif-crop">
   <img src="../assets/step5.gif" alt="Name the File" class="step-gif">
 </div>
 
@@ -61,7 +61,7 @@ Enter a clear and appropriate file name.
 
 Click the dropdown menu and choose **Download**.
 
-<div class="gif-crop6">
+<div class="gif-crop">
   <img src="../assets/step6.gif" alt="Choose Download" class="step-gif">
 </div>
 
