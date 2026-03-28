@@ -1,3 +1,21 @@
 .md-typeset p {
   color: white;
 }
+
+.gif-crop1 {
+  width: 100%;
+  max-width: 900px;   /* keep the visible area big */
+  height: 320px;      /* crop height */
+  overflow: hidden;
+  margin: 1rem 0 1.5rem 2rem;
+  border-radius: 8px;
+  position: relative;
+}
+
+.step-gif {
+  display: block;
+  width: 100%;
+  height: auto;
+  transform: scale(1.2);         /* zoom in so it gets cropped */
+  transform-origin: top left;    /* crop starting from top-left */
+}
